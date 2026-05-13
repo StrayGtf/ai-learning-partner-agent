@@ -65,3 +65,13 @@ $env:PYTHONPATH='src'
 - `next`：读取最新学习路线和进度，按顺序生成下一章内容。
 - `answer`：提交章节测验回答，自动评分、写入反馈、更新进度。
 - `status`：查看主题、完成度、当前章节、LLM 状态和下一步建议。
+
+## 项目声明
+
+本项目的作者及单位
+
+```
+项目名称：AI Learning Partner Agent
+项目作者：Shengrui Gao,Hong Deng, Chang Ding, Jianhui Qiu,  Zhiquan Liu
+作者单位：暨南大学网络空间安全学院
+```
