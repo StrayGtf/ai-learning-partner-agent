@@ -1,0 +1,104 @@
+{
+  "topic": "React Hooks",
+  "total_chapters": 6,
+  "completed_chapters": [
+    "01-react-hooks"
+  ],
+  "current_chapter": "02-react-hooks",
+  "chapters": {
+    "01-react-hooks": {
+      "chapter_id": "01",
+      "title": "React Hooks：主题总览与学习地图",
+      "status": "completed",
+      "has_code_practice": false,
+      "estimated_time": "2h",
+      "objective": "理解 React Hooks 的边界、价值与学习路径。",
+      "completed_at": "2026-05-13T14:41:50",
+      "quiz": {
+        "last_score": 28.89,
+        "mastery": "待加强",
+        "attempts": [
+          {
+            "time": "2026-05-13T14:41:50",
+            "score": 28.89,
+            "mastery": "待加强",
+            "feedback": "总分 28.89，掌握度：待加强。\nQ1: 回答较完整。\nQ2: 关键点不足，建议围绕 hooks, 主题总览与学习地图, 理解 重答。\nQ3: 关键点不足，建议围绕 主题总览与学习地图, 理解, 的边界、价值与学习路径 重答。"
+          }
+        ]
+      }
+    },
+    "02-react-hooks": {
+      "chapter_id": "02",
+      "title": "React Hooks：核心概念与术语",
+      "status": "not_started",
+      "has_code_practice": false,
+      "estimated_time": "2h",
+      "objective": "建立 React Hooks 的概念体系与术语映射。",
+      "completed_at": null,
+      "quiz": {
+        "last_score": null,
+        "mastery": null,
+        "attempts": []
+      }
+    },
+    "03-react-hooks": {
+      "chapter_id": "03",
+      "title": "React Hooks：关键机制与思维模型",
+      "status": "not_started",
+      "has_code_practice": true,
+      "estimated_time": "3h",
+      "objective": "掌握 React Hooks 的关键原理并可解释原因。",
+      "completed_at": null,
+      "quiz": {
+        "last_score": null,
+        "mastery": null,
+        "attempts": []
+      }
+    },
+    "04-react-hooks": {
+      "chapter_id": "04",
+      "title": "React Hooks：典型场景与常见误区",
+      "status": "not_started",
+      "has_code_practice": true,
+      "estimated_time": "2h",
+      "objective": "识别 React Hooks 的高频应用场景和常见错误。",
+      "completed_at": null,
+      "quiz": {
+        "last_score": null,
+        "mastery": null,
+        "attempts": []
+      }
+    },
+    "05-react-hooks": {
+      "chapter_id": "05",
+      "title": "React Hooks：综合练习与问题拆解",
+      "status": "not_started",
+      "has_code_practice": true,
+      "estimated_time": "2h",
+      "objective": "把 React Hooks 用到完整问题中并形成解题套路。",
+      "completed_at": null,
+      "quiz": {
+        "last_score": null,
+        "mastery": null,
+        "attempts": []
+      }
+    },
+    "06-react-hooks": {
+      "chapter_id": "06",
+      "title": "React Hooks：阶段复盘与能力固化",
+      "status": "not_started",
+      "has_code_practice": false,
+      "estimated_time": "1.5h",
+      "objective": "复盘 React Hooks 重点，沉淀可迁移的方法。",
+      "completed_at": null,
+      "quiz": {
+        "last_score": null,
+        "mastery": null,
+        "attempts": []
+      }
+    }
+  },
+  "next_recommendation": "下一步建议：学习 02 React Hooks：核心概念与术语",
+  "created_at": "2026-05-13T14:41:26",
+  "updated_at": "2026-05-13T14:41:59"
+}
