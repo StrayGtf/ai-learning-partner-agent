@@ -29,7 +29,7 @@ LLM_TIMEOUT_SECONDS=90
 - 代码会调用 `POST {LLM_BASE_URL}/chat/completions`。
 - 程序会自动读取根目录 `.env`，也支持你手动设置系统环境变量。
 
-## 快速开始（conda 环境 `pytorch1`）
+## 快速开始
 
 ```powershell
 cd ai-learning-partner-agent
